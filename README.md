@@ -1,3 +1,3 @@
-# clone-tabnews
+# clone-tabnews 😉
 
 Projeto tabnews
